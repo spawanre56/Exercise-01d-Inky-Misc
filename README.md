@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Your Name - Samuel Ismail Pawan-Reafnsyder
 
-# Your Github username
+# Your Github username - spawanre56
